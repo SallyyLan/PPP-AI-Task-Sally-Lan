@@ -1,0 +1,143 @@
+{
+  "candidates": [
+    {
+      "candidate_id": "candidate_1",
+      "full_name": "Andrew Swan",
+      "current_role": {
+        "title": "Head of Asia (ex-Japan) Equities",
+        "employer": "Man Group (Man GLG)",
+        "tenure_years": 6
+      },
+      "career_narrative": "[NOT FOUND — the candidate data supplied stated employer as Pendal Group and title as Head of Distribution, which is incorrect.] The intake listed this person as Head of Distribution at Pendal Group. Public sources confirmed Andrew Swan is actually Head of Asia (ex-Japan) Equities at Man Group (Man GLG) [VERIFIED — Man Group website], a portfolio management role he has held since August 2020 [VERIFIED — GSFM profile, 11 September 2023], with a 25+ year career entirely on the investment side spanning BlackRock, J.P. Morgan Asset Management, and Ord Minnett Securities with no visible distribution or sales leadership experience. Recommend validating employer, title, and role function with the client before any outreach.",
+      "experience_tags": [
+        "Asian equities portfolio management",
+        "Emerging markets equities",
+        "Fundamental bottom-up stock selection",
+        "Concentrated high-conviction portfolios",
+        "25+ years investment experience"
+      ],
+      "firm_aum_context": "Man Group AUM: $227.6 billion as at 31 December 2025, up from $168.6 billion as at 31 December 2024 [VERIFIED — Alternative Credit Investor, 26 February 2026]. Man GLG, the discretionary investment management division, had assets under management of US$31.2 billion as at 31 March 2024 [VERIFIED]. Man Group plc is publicly listed on the London Stock Exchange (ticker EMG.LN) and delivered net inflows 19.3% ahead of the industry on an asset-weighted basis in 2025, marking the sixth consecutive year of market share gains [VERIFIED].",
+      "mobility_signal": {
+        "score": 2,
+        "rationale": "Andrew joined Man GLG in August 2020 [VERIFIED — GSFM profile, 11 September 2023], giving him approximately 5 years and 7 months tenure as of March 2026. He relocated to Australia specifically for this opportunity after 15 years in Hong Kong, stating it was 'a really compelling opportunity' focused on autonomy and collaboration [VERIFIED]. Man Group is performing strongly with six consecutive years of market share gains [VERIFIED], and Swan continues to be actively quoted in media as recently as December 2025, indicating ongoing engagement."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 3,
+        "justification": "Andrew Swan is Head of Asia (ex-Japan) Equities at Man Group [VERIFIED — Man Group website] — a portfolio management role, not a distribution or sales role. His entire 25+ year career spans investment-side roles at BlackRock (Head of Asian Equities), J.P. Morgan Asset Management (Portfolio Manager), and Ord Minnett Securities (research analyst) [VERIFIED] with no visible distribution, sales, investor relations, or BDM team leadership experience. His focus is Asia ex-Japan strategies [VERIFIED], not Australian institutional or wholesale markets, and there is no evidence of networks across Australian superannuation funds, platforms, dealer groups, or IFAs. The only overlap is that he is physically based in Australia and works for a global manager, but his functional expertise is entirely orthogonal to distribution leadership."
+      },
+      "outreach_hook": "Given your long tenure managing Asian equities at Man Group and the significant AUM growth the broader platform has achieved, I imagine you're not actively looking — but I wanted to reach out because the role we're working on is a Head of Distribution opportunity at a well-capitalised Australian active manager, and while your investment pedigree is stellar, the brief calls for deep distribution networks across Australian super funds, platforms, and advisers; if you happen to know strong candidates from your years in the Australian or Asia-Pacific institutional landscape who have made the transition from investment to client-facing commercial roles, I'd be grateful for the steer."
+    },
+    {
+      "candidate_id": "candidate_2",
+      "full_name": "Cathy Hales",
+      "current_role": {
+        "title": "Chief Executive Officer, Wealth Pacific",
+        "employer": "Mercer LLC",
+        "tenure_years": 3
+      },
+      "career_narrative": "[DATA QUALITY ALERT — input data materially incorrect: intake stated Perpetual Limited / Head of Retail Sales; all public sources confirm Mercer LLC / CEO Wealth Pacific since 24 July 2023.] Cathy Hales is a C-suite executive with over 30 years in Australian and global funds management. She currently leads Mercer's entire wealth portfolio across the Pacific region, including the Mercer Super Trust (A$79.85 billion AUM as at 30 June 2025 [VERIFIED]), multi-manager business, and superannuation services. Prior to Mercer, she was Global Head of Fidante Partners from 2011 to 2018 [VERIFIED], growing platform AUM from A$15 billion to A$60 billion [VERIFIED], and before that held Managing Director and Global COO roles at RREEF/Deutsche Bank's global real estate and infrastructure platform, including five years in New York [VERIFIED]. Her career has spanned senior product, marketing, and leadership roles at Deutsche Asset Management, Colonial First State (Sydney and London), BT Funds Management (Sydney and Tokyo), and Macquarie [VERIFIED].",
+      "experience_tags": [
+        "CEO/C-suite leadership",
+        "Multi-boutique platform management",
+        "Superannuation & wealth management",
+        "Institutional & retail distribution",
+        "Product strategy & innovation",
+        "Board director (NED)",
+        "Business transformation & M&A integration",
+        "Global funds management"
+      ],
+      "firm_aum_context": "Mercer Super Trust AUM: A$79.85 billion as at 30 June 2025, up from A$71.23 billion year prior [VERIFIED — Mercer Super Trust Annual Report — 30 June 2025]. Over 1,062,000 members as at 30 June 2025 (30 June 2024: 950,000) [VERIFIED]. Trustee is part of Marsh McLennan, a global firm listed on NYSE with more than 90,000 employees advising clients in 130 countries; globally, Mercer had US$670 billion in assets under management as at 30 June 2025 [VERIFIED]. Mercer Super Trust is one of Australia's 15 largest superannuation funds [VERIFIED]. Mercer has completed merger of BT Super into Mercer Super Trust, acquired Advance Asset Management, and transitioned Macquarie Asset Management New Zealand's retail and wholesale funds [VERIFIED].",
+      "mobility_signal": {
+        "score": 1,
+        "rationale": "Cathy Hales commenced her current role at Mercer on 24 July 2023 [VERIFIED], giving her tenure of only 2 years 8 months. This is a newly-created C-suite role leading Mercer's entire wealth portfolio across the Pacific region, and the fund has grown significantly under her watch (A$71.23bn to A$79.85bn in one year) [VERIFIED], suggesting strong momentum and board confidence early in a large-scale transformation and integration agenda."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 2,
+        "justification": "Extreme seniority mismatch. Cathy Hales is a C-suite executive currently leading a A$79.85 billion superannuation fund and multi-manager business [VERIFIED], and previously grew Fidante Partners from A$15bn to A$60bn as Global Head [VERIFIED]. Her career has focused on CEO/COO-level P&L ownership, M&A, platform strategy, and board governance — not hands-on distribution team leadership. She has not held a direct sales or BDM position in over two decades and is multiple levels too senior for a Head of Distribution role. Additionally, her current focus is superannuation fund leadership, not active funds management distribution."
+      },
+      "outreach_hook": "Given Mercer's aggressive fund consolidation strategy — having absorbed BT Super, Advance Asset Management, and Lutheran Super in recent years [VERIFIED] — and Cathy's relatively recent appointment (July 2023) to lead the integration, this is not a candidate open to external distribution leadership roles."
+    },
+    {
+      "candidate_id": "candidate_3",
+      "full_name": "Jason Ennis",
+      "current_role": {
+        "title": "Director Inst. Sales [NOT FOUND]",
+        "employer": "Fidelity International",
+        "tenure_years": 0
+      },
+      "career_narrative": "[NOT FOUND — identity could not be verified at the stated employer after exhaustive search across five queries.] The intake listed Jason Ennis as Director Inst. Sales at Fidelity International. Public sources returned no profile matching this name in any role at that firm, instead confirming Tim Connolly (Head of Institutional), Maxine Kraut White (Director, Institutional Business), and Mark Vrkic (Director, Institutional Business) as the verified institutional team members [VERIFIED]. Recommend confirming employer, title, and spelling with the client before any outreach.",
+      "experience_tags": [
+        "Institutional sales [UNVERIFIED]",
+        "Distribution [UNVERIFIED]"
+      ],
+      "firm_aum_context": "Fidelity International is one of the world's leading investment & asset management companies with operations across the US, Europe, Middle East, Africa and Asia Pacific. AUM is over $750 billion [VERIFIED — Rupak Ghose Substack — February 2025], though FIL has struggled in recent years with outflows accelerating. Fidelity International (FIL) was formed in 1969 to serve non-U.S. markets and spun off in 1980 into an independent entity owned by its employees [VERIFIED — Wikipedia — 3 weeks ago]. Australian operations: Simon Glazier was appointed managing director for Australia effective 1 September 2024 [VERIFIED — Money Management — September 2024]. Institutional team structure: Tim Connolly promoted to Head of Institutional Business in 2021 after joining in 2015 [VERIFIED — Industry Moves — September 2021]. Maxine Kraut White appointed Director, Institutional Business in November 2024 [VERIFIED — Fidelity Australia — November 2024]. Mark Vrkic appointed Director, Institutional Business in January 2022 [VERIFIED — InvestorDaily — January 2022]. No specific AUM figure for Australian operations publicly disclosed. [ESTIMATED — based on global FIL AUM of ~$750B and Australia representing a mid-tier developed market for the firm, Australian FUM likely in range of $15-30B, though this is a structural estimate with no verification].",
+      "mobility_signal": {
+        "score": 3,
+        "rationale": "Unable to assess mobility with confidence due to unverified identity and tenure. Defaulting to neutral score pending manual confirmation of employment relationship and role duration."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 1,
+        "justification": "Cannot assess fit to Head of Distribution / National BDM role when candidate identity at stated employer remains unconfirmed after exhaustive search. No public record exists linking this individual to Fidelity International or Australian funds management distribution. Manual verification of name, employer, and title required before any meaningful assessment of networks, leadership experience, or institutional sales track record is possible."
+      },
+      "outreach_hook": "[NOT APPLICABLE — cannot construct evidence-based outreach hook when candidate identity at stated employer is unconfirmed; any contact attempt requires prior manual verification that this individual exists in this role.]"
+    },
+    {
+      "candidate_id": "candidate_4",
+      "full_name": "Deborah Southon",
+      "current_role": {
+        "title": "Executive Director",
+        "employer": "FSA Group Ltd",
+        "tenure_years": 22
+      },
+      "career_narrative": "[NOT FOUND — identity could not be verified at Challenger Limited; intake data contradicted by all public sources.] The intake listed Deborah Southon as Head of Distribution at Challenger Limited. Multiple verified sources confirm she is Executive Director at FSA Group Ltd (an ASX-listed debt solutions and non-conforming lending provider), a role she has held since July 2002 after co-founding the company in 2000 [VERIFIED — FSA Group 2024 Annual Report]. Her 25-year career has been entirely in consumer debt restructuring and direct lending, with earlier background in government and community services [VERIFIED — FSA Group 2009 Annual Report]. No connection to Challenger Limited or funds management distribution was found in any public source.",
+      "experience_tags": [
+        "Debt solutions & non-conforming lending",
+        "ASX-listed company governance",
+        "Co-founder & executive leadership",
+        "Government & community services background"
+      ],
+      "firm_aum_context": "FSA Group Ltd is an ASX-listed financial services company providing debt solutions and direct lending services to Australian consumers and small businesses [VERIFIED — FSA Group 2024 Annual Report]. The company describes itself as \"the largest provider of debt solutions to individuals in Australia\" with over 200 employees operating nationally [VERIFIED — FSA Group website and LinkedIn]. [ESTIMATED — loan book likely $400m–$600m range based on 2024 Annual Report reference to home loan facility increased to $400m in July 2024]. This is a consumer lending and debt restructuring business, not a funds management or asset management firm [VERIFIED — all sources consistent].",
+      "mobility_signal": {
+        "score": 1,
+        "rationale": "Deborah Southon co-founded FSA Group 25 years ago and has served as Executive Director for 22+ years with significant equity ownership (material insider holdings confirmed). The 2024 Annual Report confirms active involvement with performance-based remuneration, and no signals of departure or transition exist."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 1,
+        "justification": "Complete mismatch for the role. Deborah Southon's entire 25-year career has been in consumer debt solutions and non-conforming lending at FSA Group, with earlier government and community services experience [VERIFIED]. She has no verified experience in funds management distribution, institutional investor relations, wholesale platform relationships, investment product sales, superannuation fund engagement, or dealer group distribution. FSA Group is a consumer lending business, not an asset manager."
+      },
+      "outreach_hook": "[NOT APPLICABLE — candidate does not match search parameters] The individual verified in public sources has no connection to Challenger Limited or funds management distribution; recommend confirming candidate identity and employer details with the client before any outreach."
+    },
+    {
+      "candidate_id": "candidate_5",
+      "full_name": "Nikki Thomas",
+      "current_role": {
+        "title": "Not currently employed (departed September 2025)",
+        "employer": "Previously Magellan Financial Group",
+        "tenure_years": 0
+      },
+      "career_narrative": "[NOT FOUND — candidate data listed \"Senior BDM Wholesale\" but all public sources confirm Nikki Thomas was a portfolio manager, not a distribution professional.] The intake listed this person as Senior BDM Wholesale at Magellan Financial Group. Public research verified she was a global equities portfolio manager managing the High Conviction Strategy until her mutual departure on 15 September 2025 [VERIFIED — Money Management — 15 August 2025], with extensive investment-side experience across two Magellan tenures (2007–2017 and 2022–2025), Alphinity Investment Management (2018–2022), and prior stockbroking roles, but zero distribution or sales experience found across 25+ years [UNVERIFIED — extensive searches yielded no BDM or distribution roles]. Recommend confirming the candidate identity and intended role with the client before any outreach, as this profile is entirely investment-side.",
+      "experience_tags": [
+        "Portfolio management",
+        "Global equities",
+        "Head of research",
+        "High conviction investing",
+        "Institutional asset management"
+      ],
+      "firm_aum_context": "Magellan Financial Group reported AUM of $39.9 billion as at 31 December 2025 [VERIFIED — The Motley Fool — 7 January 2026]. Magellan announced a transformational merger with Barrenjoey Capital Partners on 3 March 2026 to create a combined A$45 billion asset management and investment banking group [VERIFIED — Kalkine — 18 March 2026].",
+      "mobility_signal": {
+        "score": 5,
+        "rationale": "Thomas departed Magellan six months ago (September 2025) with no new appointment announced as of March 2026 [VERIFIED departure; UNVERIFIED status — no public record of subsequent role]. Given her 25+ year track record managing billions in global equities across two tenures at Magellan and a successful stint at Alphinity, she is likely either actively seeking or carefully evaluating senior opportunities."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 1,
+        "justification": "Complete mismatch. Nikki Thomas is a highly accomplished global equities portfolio manager with 25+ years of investment experience, but there is zero public evidence of distribution, sales, BDM, or client-facing commercial roles [UNVERIFIED — extensive searches found no distribution experience]. Her entire verified career trajectory has been on the investment side: equity research at Bankers Trust and Deutsche Bank, then portfolio manager and head of research at Magellan (2007–2017), portfolio manager at Alphinity (2018–2022), and portfolio manager at Magellan again (2022–2025). The stated role of Senior BDM Wholesale appears to be a data error; she has never worked in distribution and would not meet any of the six distribution leadership criteria."
+      },
+      "outreach_hook": "Given your departure from Magellan in September and the current market consolidation (including the recent Barrenjoey merger announcement), I thought it worth reaching out—though I note this search is for a distribution leadership role and your background is entirely portfolio management, so there may be a candidate data mismatch to clarify with our client first."
+    }
+  ]
+}

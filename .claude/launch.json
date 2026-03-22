@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "PPP Streamlit UI",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "streamlit run app.py --server.port $PORT --server.headless true"],
+      "port": 8501,
+      "autoPort": true
+    }
+  ]
+}

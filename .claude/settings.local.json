@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "mcp__Claude_Preview__preview_start",
+      "WebSearch",
+      "Bash(source venv/bin/activate)",
+      "Bash(python -m pytest tests/ -v)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(python -c \"import anthropic; print\\(anthropic.__version__\\)\")",
+      "Bash(python -c \"from agent import run_candidate_agent; print\\(''agent imports OK''\\)\")",
+      "Bash(python -c \"from app import parse_csv; print\\(''app imports OK''\\)\")",
+      "Bash(find /Users/sally/Documents/Project/PPP_agents -maxdepth 3 -not -path */venv/* -not -path */__pycache__/* \\\\\\(-name *.py -o -name *.log -o -name *.md -o -name *.json \\\\\\))",
+      "Bash(python -c \"import agent; print\\(''import OK''\\)\")",
+      "Bash(timeout 180 python -c \":*)"
+    ]
+  }
+}
